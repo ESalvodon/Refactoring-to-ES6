@@ -1,0 +1,30 @@
+body {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: auto;
+  height: auto;
+  background: #fafafa;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #333;
+}
+
+.mainBox {
+   border: 2px solid #778899;
+   height: 450px;
+   border-radius: 5%;
+   width: 500px;
+   margin: 10px;
+   padding: 10px;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+}
+
+#wrapper {
+display: flex;
+flex-direction: column;
+justify-content: center;
+margin-left: 30%;
+
+}
